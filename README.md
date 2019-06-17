@@ -7,8 +7,7 @@ Football Management (JAVA EE)
 
 
 
-
-![Downloading](hhttps://i.imgur.com/qSWEIFF.png)
+![Downloading](https://i.imgur.com/qSWEIFF.png)
 
 
 
