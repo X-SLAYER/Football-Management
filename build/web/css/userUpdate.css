@@ -1,0 +1,36 @@
+body {
+  background-color: #F3F3F3;
+}
+
+.uxa-form-group {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 0 0.2rem 0.6rem rgba(50, 50, 50, 0.15);
+}
+
+.form-group span {
+  color: red;
+}
+
+.uxa-user-avatar {
+  width: 140px;
+  height: 140px;
+  margin: auto;
+  overflow: hidden;
+  
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+   
+  border-radius: 100%;
+  // border: 1px solid lightgray;
+  // background-image: url(https://www.youth4work.com/Images/Users/771710.png);
+  // background-position: center center;
+  // background-size: cover;
+  // background-repeat: no-repeat;
+  // background-color: white;
+  
+  img {
+    width: 150px;
+  }
+}
